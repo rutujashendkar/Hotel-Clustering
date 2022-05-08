@@ -9,7 +9,13 @@ Moreover, the study looks at various clustering techniques such as K-Means, Aggl
 
 # Dataset
 
-Three CSVs have been merged to form the final dataset. The data contains information such as hotel name, hotel code, address, zip code, ratings, room amenities, pricing information, room type etc. Overall, the data has 176906 rows and 31 columns. 
+Three CSVs have been merged to form the final dataset. The data contains information such as hotel name, hotel code, address, zip code, ratings, room amenities, pricing information, room type etc. Overall, the data has 176906 rows and 31 columns.
+
+The datasets can be found here:
+
+- [Hotel_Details.csv](https://www.kaggle.com/code/keshavramaiah/hotel-recommender/data?select=Hotel_details.csv)
+- [Hotel_Price_Min_Max - Formula.csv](https://www.kaggle.com/code/keshavramaiah/hotel-recommender/data?select=hotel_price_min_max+-+Formula.csv)
+- [Hotels_Room_Price.csv](https://www.kaggle.com/code/keshavramaiah/hotel-recommender/data?select=hotels_RoomPrice.csv)
 
 # Project Lifecycle
 
