@@ -1,0 +1,2 @@
+# Hotel-Clustering
+Aims at building a recommendation system for the hotel industry to examine where each hotel brand stands as compared to its competition. Unlike, other recommendation system this aims at targeting the hotel managers and stakeholder in order to better understand their industry and gain a competitive edge. Along with recommendation techniques, various clustering and dimensionality techniques were used to bring the insight.
