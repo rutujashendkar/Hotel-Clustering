@@ -3,7 +3,8 @@
 
 # Introduction
 
-The online search for travel and stay has become a highly competitive space where several hotel brands try to attract the customer by recommending and matching. However, an introspection within the hotel industry is essential in order to have a competitive edge. 
+The online search for travel and stay has become a highly competitive space where several hotel brands try to attract the customer by recommending and matching. However, an introspection within the hotel industry is essential in order to have a competitive edge.
+
 The repository aims at building a recommendation system for the dataset ‘Hotel Recommender’. The target audience for this research is primarily the hotel managers and the stakeholders. This recommendation system will enable the stakeholders to understand the rank of their hotel as compared to others. 
 Moreover, the study looks at various clustering techniques such as K-Means, Agglomerative etc. while look at dimensionality reduction techniques such as PCA and MCA.
 
